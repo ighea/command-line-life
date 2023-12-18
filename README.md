@@ -33,7 +33,7 @@ alias --save cat="bat"
 # Use fo to search and open with default application
 alias --save fo="fzf | xargs -r xdg-open"
 # Use eza (exa replacement) to replace ls, ll and la
-alias --save ls="eza -hF --icons=always --group-directories-first"
-alias --save ll="eza -lhF --icons=always --group-directories-first"
-alias --save la="eza -ahFl --icons=always --group-directories-first"
+alias --save ls="eza -hF --icons=always --group-directories-first --git"
+alias --save ll="eza -lhF --icons=always --group-directories-first --git"
+alias --save la="eza -ahFl --icons=always --group-directories-first --git"
 ```
