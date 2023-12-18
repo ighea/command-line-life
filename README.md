@@ -19,11 +19,11 @@ Generally working and supported terminal shortcuts.
 
 Useful commands and utils for working with command line.
 
-- `bat` : a cat clone with wings.
-- `gdu` : Disk Usage Analyzer
-- `fzf` : FuzZy Finder
-- `ag`  : The Silver Searcher
-- `eza` : ls replacement written in rust
+- `bat` : a cat clone with wings. https://github.com/sharkdp/bat
+- `gdu` : Disk Usage Analyzer https://github.com/dundee/gdu
+- `fzf` : FuzZy Finder https://github.com/junegunn/fzf
+- `ag`  : The Silver Searcher https://github.com/ggreer/the_silver_searcher
+- `eza` : ls replacement written in rust https://github.com/eza-community/eza
 
 ### Aliases (for Fish Shell)
 
