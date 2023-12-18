@@ -1,4 +1,4 @@
-# Comman Line Life
+# Command Line Life
 
 ## Best Shell
 
