@@ -12,11 +12,14 @@ Generally working and supported terminal shortcuts.
 - `Ctrl + E`: Go to the end of a line
 - `Ctrl + U`: Clear line
 - `Ctrl + R`: Search history
+- `Ctrl + W`: Remove last word
+- `Alt + s`: Last command, but with sudo
 
 ## Commands
 
 Useful commands and utils for working with command line.
 
+- `bat` : a cat clone with wings.
 - `gdu` : Disk Usage Analyzer
 - `fzf` : FuzZy Finder
 - `ag`  : The Silver Searcher
