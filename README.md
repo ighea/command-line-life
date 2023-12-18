@@ -13,7 +13,7 @@ Generally working and supported terminal shortcuts.
 - `Ctrl + U`: Clear line
 - `Ctrl + R`: Search history
 - `Ctrl + W`: Remove last word
-- `Alt  + S`: Last command, but with sudo
+- `Alt  + S`: Prefix last or current command with sudo
 
 ## Commands
 
