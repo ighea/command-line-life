@@ -4,6 +4,10 @@
 
 fish
 
+## Cursors
+
+https://aur.archlinux.org/packages/posy-cursors
+
 ## Shortcuts
 
 Generally working and supported terminal shortcuts.
