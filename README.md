@@ -24,6 +24,7 @@ Useful commands and utils for working with command line.
 - `fzf` : FuzZy Finder https://github.com/junegunn/fzf
 - `ag`  : The Silver Searcher https://github.com/ggreer/the_silver_searcher
 - `eza` : ls replacement written in rust https://github.com/eza-community/eza
+- `duf` : Modern disk free / disk usage utility https://github.com/muesli/duf
 
 ### Aliases (for Fish Shell)
 
@@ -36,4 +37,6 @@ alias --save fo="fzf | xargs -r xdg-open"
 alias --save ls="eza -hF --icons=always --group-directories-first --git"
 alias --save ll="eza -lhF --icons=always --group-directories-first --git"
 alias --save la="eza -ahFl --icons=always --group-directories-first --git"
+# Replace df with duf
+alias --save df="duf"
 ```
