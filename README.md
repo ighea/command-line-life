@@ -41,6 +41,7 @@ alias --save fo="fzf | xargs -r xdg-open"
 alias --save ls="eza -hF --icons=always --group-directories-first --git"
 alias --save ll="eza -lhF --icons=always --group-directories-first --git"
 alias --save la="eza -ahFl --icons=always --group-directories-first --git"
+alias --save lsh="eza -hF --icons=always --group-directories-first --git --hyperlink"
 # Replace df with duf
 alias --save df="duf"
 ```
