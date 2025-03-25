@@ -2,7 +2,11 @@
 
 ## Best Shell
 
-fish
+[fish](https://fishshell.com/) -  Finally, a command line shell for the 90s
+
+## Best prompt
+
+[starship](https://starship.rs/) - The cross-shell prompt for astronauts
 
 ## Cursors
 
