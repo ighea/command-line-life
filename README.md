@@ -12,6 +12,21 @@
 
 https://aur.archlinux.org/packages/posy-cursors
 
+## Keyboard configurator
+
+[keyd](https://github.com/rvaiya/keyd)
+
+Configure Left Alt + Space to execute Backspace
+
+```INI
+# /etc/keyd/backspace.conf
+[ids]
+*
+
+[alt]
+space = backspace
+```
+
 ## Shortcuts
 
 Generally working and supported terminal shortcuts.
